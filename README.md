@@ -14,8 +14,8 @@ Para adicionar classes em campos do Gravity Forms, você deve editar o formulár
 
 #### Para correto funcionamento, os tipos de campo devem ser:
 
-- Campo de Texto (<input>): CEP, Rua, Bairro e Cidade.
-- Lista suspensa (<select>): Estado.
+- Campo de Texto (`<input>`): CEP, Rua, Bairro e Cidade.
+- Lista suspensa (`<select>`): Estado.
 	
 O campo Estado deve estar com a opção "mostrar valores" ligada.
 O campo deve estar preenchido com os valores com as siglas dos estados. Se precisar, utilize o arquivo "estados-brasileiros.txt" presente na pasta "assets > recursos" do plugin.
